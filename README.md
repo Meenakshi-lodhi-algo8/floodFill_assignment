@@ -1,5 +1,5 @@
-(Open book question).
-Q3: Coding
+## Floodfill Algorithm:=>
+Q: 
 Create the following webpage using Javascript (any framework), HTML, CSS
 Illustration:
 Available Colors (Array of 10 Colors that the user can select)
